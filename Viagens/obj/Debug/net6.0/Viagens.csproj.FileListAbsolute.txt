@@ -1,0 +1,104 @@
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\appsettings.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.staticwebassets.runtime.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.exe
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.deps.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.runtimeconfig.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.dll
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\bin\Debug\net6.0\Viagens.pdb
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.AssemblyReference.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfoInputs.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfo.cs
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.CoreCompileInputs.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cs
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\scopedcss\bundle\Viagens.styles.css
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\scopedcss\projectbundle\Viagens.bundle.scp.css
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.dll
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\refint\Viagens.dll
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.pdb
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\Viagens.genruntimeconfig.cache
+C:\Users\suzea\Desktop\Projeto ASPI\Viagens\Viagens\obj\Debug\net6.0\ref\Viagens.dll
+D:\Viagens\Viagens\bin\Debug\net6.0\appsettings.Development.json
+D:\Viagens\Viagens\bin\Debug\net6.0\appsettings.json
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.staticwebassets.runtime.json
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.exe
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.deps.json
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.runtimeconfig.json
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.dll
+D:\Viagens\Viagens\bin\Debug\net6.0\Viagens.pdb
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.AssemblyReference.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfoInputs.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfo.cs
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.CoreCompileInputs.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.MvcApplicationPartsAssemblyInfo.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cs
+D:\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.build.json
+D:\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.development.json
+D:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\bundle\Viagens.styles.css
+D:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\projectbundle\Viagens.bundle.scp.css
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.dll
+D:\Viagens\Viagens\obj\Debug\net6.0\refint\Viagens.dll
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.pdb
+D:\Viagens\Viagens\obj\Debug\net6.0\Viagens.genruntimeconfig.cache
+D:\Viagens\Viagens\obj\Debug\net6.0\ref\Viagens.dll
+E:\Viagens\Viagens\bin\Debug\net6.0\appsettings.Development.json
+E:\Viagens\Viagens\bin\Debug\net6.0\appsettings.json
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.staticwebassets.runtime.json
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.exe
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.deps.json
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.runtimeconfig.json
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.dll
+E:\Viagens\Viagens\bin\Debug\net6.0\Viagens.pdb
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.AssemblyReference.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.GeneratedMSBuildEditorConfig.editorconfig
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfoInputs.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfo.cs
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.CoreCompileInputs.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.MvcApplicationPartsAssemblyInfo.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cs
+E:\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.build.json
+E:\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.development.json
+E:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\bundle\Viagens.styles.css
+E:\Viagens\Viagens\obj\Debug\net6.0\scopedcss\projectbundle\Viagens.bundle.scp.css
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.dll
+E:\Viagens\Viagens\obj\Debug\net6.0\refint\Viagens.dll
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.pdb
+E:\Viagens\Viagens\obj\Debug\net6.0\Viagens.genruntimeconfig.cache
+E:\Viagens\Viagens\obj\Debug\net6.0\ref\Viagens.dll
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\appsettings.json
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.staticwebassets.runtime.json
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.exe
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.deps.json
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.runtimeconfig.json
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.dll
+C:\Users\guest01\Documents\Viagens\Viagens\bin\Debug\net6.0\Viagens.pdb
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.AssemblyReference.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfoInputs.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.AssemblyInfo.cs
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.RazorAssemblyInfo.cs
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\scopedcss\bundle\Viagens.styles.css
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\scopedcss\projectbundle\Viagens.bundle.scp.css
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.dll
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\refint\Viagens.dll
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.pdb
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\Viagens.genruntimeconfig.cache
+C:\Users\guest01\Documents\Viagens\Viagens\obj\Debug\net6.0\ref\Viagens.dll
